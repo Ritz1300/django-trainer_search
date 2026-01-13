@@ -56,7 +56,10 @@ python manage.py runserver
 The Django backend will run at:
 http://127.0.0.1:8000
 
-Frontend Setup (React)
+---
+
+## Frontend Setup (React)
+
 cd trainer_search_app
 npm install
 npm start
